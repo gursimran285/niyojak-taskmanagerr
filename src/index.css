@@ -1,0 +1,25 @@
+.niyojak-card {
+  background: #151b2b;
+  border: 1px solid transparent;
+  border-radius: 20px;
+  padding: 35px 25px;
+  color: white;
+  transition: all 0.3s ease;
+}
+
+.niyojak-card .card-title {
+  color: white;
+  margin-bottom: 18px;
+}
+
+.niyojak-card .card-text {
+  color: #b8bdc9;
+  line-height: 1.7;
+  font-size: 16px;
+}
+
+.niyojak-card:hover {
+  border-color: #ffc107;
+  transform: translateY(-8px);
+  box-shadow: 0 12px 35px rgba(255, 193, 7, 0.15);
+}
