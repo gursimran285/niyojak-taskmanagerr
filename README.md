@@ -1,12 +1,89 @@
-# React + Vite
+# Niyojak – Task Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> A role-based task management platform for assigning, tracking, and managing team tasks efficiently.
 
-Currently, two official plugins are available:
+## 🚀 Live Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Live Demo:**  
+https://niyojak-taskmanagerr.vercel.app/
 
-## Expanding the ESLint configuration
+**GitHub:**  
+https://github.com/gursimran285/niyojak-taskmanagerr
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📌 About
+
+Niyojak is a web-based task management system that helps teams manage tasks, deadlines, progress, and responsibilities from one centralized platform.
+
+It provides separate dashboards for administrators and employees with real-time updates powered by Firebase.
+
+---
+
+## ✨ Features
+
+- 🔐 Firebase Authentication
+- 👥 Role-based Admin & Employee dashboards
+- 📋 Create, assign, update & delete tasks
+- 📊 Track task status and deadlines
+- 🔎 Search & filter tasks
+- ⚡ Real-time task updates
+- 🔔 Notifications & deadline reminders
+- 📱 Responsive design
+- 📝 Activity tracking
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:** React.js, JavaScript, React Router, React Hooks, CSS/Tailwind CSS
+
+**Backend:** Firebase
+
+**Database:** Firebase Firestore
+
+**Tools:** Git, GitHub, VS Code, npm
+
+**Deployment:** Vercel
+
+---
+
+## 📸 Screenshots
+
+_Add project screenshots here_
+
+---
+
+## 🎯 Project Highlights
+
+- Role-based access control
+- Real-time Firestore synchronization
+- Centralized task management
+- Responsive user interface
+- Cloud-based architecture
+
+---
+
+## 🔮 Future Improvements
+
+- AI-powered task recommendations
+- Advanced performance analytics
+- Mobile/PWA version
+- Multi-factor authentication
+- Team communication features
+
+---
+
+## 👩‍💻 Author
+
+**Gursimran Kaur**  
+B.Tech Computer Science & Engineering  
+DAV Institute of Engineering & Technology, Jalandhar
+
+**GitHub:** https://github.com/gursimran285  
+**Portfolio:** https://gursimran-portfolio-xi.vercel.app/  
+**LinkedIn:** https://www.linkedin.com/in/gursimran-kaur-52ab45290/
+
+---
+
+⭐ If you like this project, consider giving the repository a star!
