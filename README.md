@@ -48,12 +48,6 @@ It provides separate dashboards for administrators and employees with real-time 
 
 ---
 
-## 📸 Screenshots
-
-_Add project screenshots here_
-
----
-
 ## 🎯 Project Highlights
 
 - Role-based access control
